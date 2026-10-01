@@ -122,3 +122,5 @@ To remain consistent with the pre-trained weights compiled within the ImageNet d
 *   **Mean Channel Adjustments:** `[0.485, 0.456, 0.406]`
 *   **Standard Deviation Adjustments:** `[0.229, 0.224, 0.225]`
 *   **Dimension Architecture:** PIL images are transposed from width/height dimensions to channel first vectors matching PyTorch expectancies: `[Batch Size, Channels, Height, Width]`.
+
+<img width="1408" height="768" alt="image_classification_ui" src="https://github.com/user-attachments/assets/6b80923e-fae2-4aca-ad57-ad3f1b10a0e3" />
